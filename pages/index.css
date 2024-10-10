@@ -116,7 +116,7 @@ line-height: 30px;
   justify-content: space-between;
 }
 .recipes__iframe {
-
+border: none;
 }
 .content {
 
