@@ -4,6 +4,8 @@
   color: #fff;
   padding: 60px 80px;
   font-family: "inter", arial, sans-serif;
+  flex-wrap: wrap;
+  margin: 0 0 80px;
 }
 
 .footer__content {
@@ -24,10 +26,9 @@
 .footer__list {
   list-style-type: none;
   padding: 0;
-  margin: 0;
+  margin: 0 0 16px;
   display: flex;
   flex-direction: column;
-  gap: 5px;
 }
 
 .footer__list-item {
