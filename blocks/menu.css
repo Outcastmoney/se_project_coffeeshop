@@ -4,8 +4,13 @@
   flex-direction: column;
   align-items: center;
   background-image: url(../images/background_menu.svg);
-background-size: center;
-position: relative;
+  background-size: center;
+  position: relative;
+  font-family: "inter", arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
 
 .menu__title {
@@ -33,4 +38,9 @@ position: relative;
   flex-wrap: wrap;
   gap: 100px;
   justify-content: center;
+  font-family: "Noto Serif", "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
 }
