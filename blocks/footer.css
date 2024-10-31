@@ -8,6 +8,10 @@
   margin: 0;
 }
 
+.footer__column {
+
+}
+
 .footer__content {
   display: flex;
   justify-content: space-between;
