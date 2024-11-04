@@ -2,9 +2,9 @@
   display: flex;
   justify-content: space-between;
 }
-.nav__logo{
-position: relative;
-left: -50px;
+.nav__logo {
+  position: relative;
+  left: -50px;
 }
 
 .nav__links {
